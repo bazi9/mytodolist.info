@@ -50,5 +50,5 @@ To run this project locally on your own machine, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-   git clone \[https://github.com/bazi9/mytodolist](https://github.com/bazi9/mytodolist)
+   git clone \[https://github.com/bazi9/mytodolist.info](https://github.com/bazi9/mytodolist.info)
 
