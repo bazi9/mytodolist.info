@@ -4,7 +4,7 @@
 
 ### 🚀 Live Preview
 
-**Experience the live app here:** [https://www.mytodolist.info](https://mytodolist.info)
+**Experience the live app here:** [Online To Do List](https://mytodolist.info)
 
 \---
 
